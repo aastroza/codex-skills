@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write With Zinsser"
+  short_description: "Draft and edit prose that sounds human"
+  default_prompt: "Use $write-with-zinsser to edit this draft into clear, warm, non-AI-sounding prose."
