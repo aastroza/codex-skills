@@ -71,10 +71,6 @@ When turning notes or transcripts into prose:
 
 For long writing projects, read `references/wiki-loop.md` and capture new taste decisions after a productive session.
 
-## CodexBook Fit
-
-When editing `Codex for the Rest of Us`, follow the repository instructions first. Write in English unless the file or user request says otherwise. Keep the book practical for capable beginners. Prefer concrete work, visible outputs, check steps, and honest recovery patterns over abstract claims about AI.
-
 ## Output
 
 When editing files, summarize:
