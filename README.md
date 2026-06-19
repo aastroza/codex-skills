@@ -10,6 +10,8 @@ Shared Codex skills, organized by domain.
 
 ### Writing
 
+- `write-with-aida`: Shapes, reviews, and rewrites marketing, sales, educational, consulting, newsletter, landing page, social, or thought-leadership drafts using the AIDA framework: Attention, Interest, Desire, Action.
+
 - `write-with-zinsser`: Drafts, edits, and critiques prose with a clear, warm, source-faithful nonfiction standard, plus a scanner for common AI-writing tells. Based on Isaac Flath's [`writing-with-zinsser`](https://github.com/Isaac-Flath/agent-starter-wiki/blob/main/writing-with-zinsser.md) skill and Wikipedia's [`Signs of AI writing`](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
 
 ## License
