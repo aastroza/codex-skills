@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write with AIDA"
+  short_description: "Shape drafts into Attention, Interest, Desire, and Action."
+  default_prompt: "Review or rewrite this draft so it follows the AIDA framework and produces a clearer next action."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scryfall API"
+  short_description: "Look up Magic cards with Scryfall"
+  default_prompt: "Use $scryfall-api to find Magic card data from Scryfall."
