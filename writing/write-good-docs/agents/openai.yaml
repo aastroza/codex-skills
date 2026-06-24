@@ -1,0 +1,4 @@
+interface:
+  display_name: "Write Good Docs"
+  short_description: "Write clear READMEs and technical posts"
+  default_prompt: "Use $write-good-docs to revise this README so it helps readers understand and reproduce the project."

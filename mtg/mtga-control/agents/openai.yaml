@@ -1,0 +1,4 @@
+interface:
+  display_name: "MTGA Control"
+  short_description: "Control MTGA with screenshots and clicks"
+  default_prompt: "Use $mtga-control to inspect MTGA and click Play or a visible event."
